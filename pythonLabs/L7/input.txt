@@ -1,0 +1,1 @@
+Astăzi învățăm cum să lucrăm cu fișiere în Python. Este un proces simplu și foarte util pentru manipularea datelor. Numărarea cuvintelor este doar unul dintre numeroasele exemple de operații posibile.
